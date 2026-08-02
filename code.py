@@ -11,4 +11,4 @@ with open ("file.txt","r") as wr:
                 ml.write(i+"\n")
             print("email has came")
     else:
-        print("no their is no mails")
+        print("no their is no mails ")
