@@ -19,4 +19,3 @@ while True:
     else :
         print (f"bot: sorry i can't understand your question")
         
-        
